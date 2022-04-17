@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Material Theme Ocean",
+    "editor.fontSize": 20,
+    "terminal.integrated.fontSize": 16
+}
